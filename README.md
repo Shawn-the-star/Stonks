@@ -68,6 +68,35 @@ ELSE
 END
 ```
 
-  
+### For loop
 
-  
+```
+FOR x = 1 TO 10 STEP 2 THEN PRINT(x)
+```
+
+```
+FOR x = 1 TO 10 STEP 2 THEN 
+  PRINT(x)
+END
+```
+
+ ### While Loop
+
+```
+WHILE x > y THEN PRINT("X is greater than Y")
+```
+
+```
+WHILE x > y THEN
+  PRINT("X is greater than Y")
+END
+```
+
+## Stuff I want to add
+
+- continue, break and return 
+
+## Things I didnt add and I wont in the future
+ 
+ > LET, CONT, Comments, More in built funtions 
+  to annoy the people who will use this language
