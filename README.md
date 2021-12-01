@@ -92,6 +92,18 @@ WHILE x > y THEN
 END
 ```
 
+### Functions
+
+```
+FUN add (a, b) -> a + b
+```
+
+```
+FUN hello_world () 
+  PRINT("Hello World")
+END
+```
+
 ## Stuff I want to add
 
 - continue, break and return 
