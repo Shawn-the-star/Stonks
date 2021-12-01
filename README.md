@@ -98,7 +98,7 @@ END
 
 ## Things I didnt add and I wont in the future
  
- > LET, CONT, Comments, More in built funtions 
+ > LET, CONST, Comments, More inbuilt funtions 
 
 
 to annoy the people who will use this language
