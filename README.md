@@ -10,35 +10,35 @@ idk, there's nothing special about it
 
 ## Available Types
 
-  . String -> ""
-  . Number -> INT | FLOAT
-  . List -> []
-  . Bool -> 0 | 1 -> False | True
+  - String -> ""
+  - Number -> INT | FLOAT
+  - List -> []
+  - Bool -> 0 | 1 -> False | True
 
 ## Built in Functions
 
-  `PRINT(String) -> String`
-  `PRINT_RET(VAR) -> Value of VAR`
-  `INPUT() -> String`
-  `INPUT_INT() -> Number`
-  `CLEAR() -> Clears terminal if supported by the os`
-  `CLS() -> Clears terminal if supported by the os`
-  `IS_NUM(VALUE) -> Bool`
-  `IS_STR(VALUE) -> Bool`
-  `IS_LIST(VALUE) -> Bool`
-  `IS_FUNC(VALUE) -> Bool`
-  `APPEND(List, VALUE) -> List`
-  `POP(List, VALUE) -> List`
-  `EXTEND(List, VALUE) -> List`
-  `LEN(List) -> List`
-  `RUN(FILE_NAME) -> Runs the file`
+  - `PRINT(String) -> String`
+  - `PRINT_RET(VAR) -> Value of VAR`
+  - `INPUT() -> String`
+  - `INPUT_INT() -> Number`
+  - `CLEAR() -> Clears terminal if supported by the os`
+  - `CLS() -> Clears terminal if supported by the os`
+  - `IS_NUM(VALUE) -> Bool`
+  - `IS_STR(VALUE) -> Bool`
+  - `IS_LIST(VALUE) -> Bool`
+  - `IS_FUNC(VALUE) -> Bool`
+  - `APPEND(List, VALUE) -> List`
+  - `POP(List, VALUE) -> List`
+  - `EXTEND(List, VALUE) -> List`
+  - `LEN(List) -> List`
+  - `R1UN(FILE_NAME) -> Runs the file`
 
 ## Built in Variables
 
-  `NULL -> 0`
-  `FALSE -> 0`
-  `TRUE -> 1`
-  `MATH_PI -> magic math number`
+  - `NULL -> 0`
+  - `FALSE -> 0`
+  - `TRUE -> 1`
+  - `MATH_PI -> magic math number`
   
 ## Syntax
   
