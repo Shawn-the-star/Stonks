@@ -2,7 +2,7 @@
 
 A really basic programming language made using Python
 
-# Why Stonks?
+# Why use Stonks?
 
 idk, there's nothing special about it
 
