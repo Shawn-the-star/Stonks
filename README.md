@@ -104,10 +104,6 @@ FUN hello_world ()
 END
 ```
 
-## Stuff I want to add
-
-- continue, break and return 
-
 ## Things I didnt add and I wont in the future
  
  > LET, CONST, Comments, Dictionaries and More inbuilt functions 
