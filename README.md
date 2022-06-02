@@ -108,6 +108,3 @@ END
  
  > LET, CONST, Comments, Dictionaries and More inbuilt functions 
 
-
-to annoy the people who will use this language
-
